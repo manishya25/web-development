@@ -4,9 +4,6 @@
 	<title>contact form</title>
 	<link rel="stylesheet" href="style.css" type="text/css" media="all" />
 	</head>
-	
-
-
 <body>
     <div class="container">
     <div class="row">
